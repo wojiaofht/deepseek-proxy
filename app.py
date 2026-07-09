@@ -4,7 +4,6 @@ import requests
 app = Flask(__name__)
 
 DEEPSEEK_API_KEY = "sk-53f5472de49545cfab6501c03cb2e985"
-"
 
 DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
 
